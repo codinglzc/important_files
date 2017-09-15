@@ -1,0 +1,13 @@
+{
+    "configs": [
+        {
+            "method": "rc4-md5",
+            "password": "987410",
+            "remarks": "日本",
+            "server": "160.16.123.81",
+            "server_port": 50898
+        }
+    ],
+    "localPort": 1080,
+    "shareOverLan": false
+}
